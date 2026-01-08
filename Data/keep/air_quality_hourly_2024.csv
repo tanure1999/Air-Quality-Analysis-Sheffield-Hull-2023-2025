@@ -1,0 +1,1862 @@
+location_name,datetimeLocal,unit,no2,o3,pm10,pm25,city,so2
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:02:00Z,µg/m³,9,59,4,2,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:03:00Z,µg/m³,9,61,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:04:00Z,µg/m³,4,63,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:05:00Z,µg/m³,4,64,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:06:00Z,µg/m³,3,64,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:07:00Z,µg/m³,3,64,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:08:00Z,µg/m³,3,64,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:09:00Z,µg/m³,3,65,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:10:00Z,µg/m³,4,65,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:11:00Z,µg/m³,4,65,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:12:00Z,µg/m³,5,65,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:13:00Z,µg/m³,4,65,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:14:00Z,µg/m³,7,64,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:15:00Z,µg/m³,12,63,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:16:00Z,µg/m³,17,60,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:17:00Z,µg/m³,24,56,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:18:00Z,µg/m³,24,52,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:19:00Z,µg/m³,18,49,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:20:00Z,µg/m³,11,48,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:21:00Z,µg/m³,10,46,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:22:00Z,µg/m³,11,44,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:23:00Z,µg/m³,11,43,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:00:00Z,µg/m³,18,42,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:02:00Z,µg/m³,2,49,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:03:00Z,µg/m³,2,50,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:04:00Z,µg/m³,2,56,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:05:00Z,µg/m³,2,56,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:06:00Z,µg/m³,4,61,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:07:00Z,µg/m³,17,62,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:08:00Z,µg/m³,24,63,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:09:00Z,µg/m³,13,65,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:10:00Z,µg/m³,18,62,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:11:00Z,µg/m³,41,56,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:12:00Z,µg/m³,47,49,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:13:00Z,µg/m³,43,43,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:14:00Z,µg/m³,47,38,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:15:00Z,µg/m³,35,36,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:16:00Z,µg/m³,28,37,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:17:00Z,µg/m³,20,37,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:18:00Z,µg/m³,15,39,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:20:00Z,µg/m³,32,48,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:22:00Z,µg/m³,23,53,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:23:00Z,µg/m³,23,54,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:00:00Z,µg/m³,5,56,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:02:00Z,µg/m³,4,57,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:03:00Z,µg/m³,4,55,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:04:00Z,µg/m³,7,58,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:05:00Z,µg/m³,7,59,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:06:00Z,µg/m³,19,56,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:07:00Z,µg/m³,19,54,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:08:00Z,µg/m³,23,50,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:09:00Z,µg/m³,30,45,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:10:00Z,µg/m³,33,40,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:11:00Z,µg/m³,35,35,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:12:00Z,µg/m³,33,31,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:13:00Z,µg/m³,29,29,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:14:00Z,µg/m³,25,29,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:15:00Z,µg/m³,25,28,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:16:00Z,µg/m³,25,28,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:17:00Z,µg/m³,25,28,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:18:00Z,µg/m³,24,32,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:19:00Z,µg/m³,19,35,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:20:00Z,µg/m³,14,38,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:22:00Z,µg/m³,13,42,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:23:00Z,µg/m³,13,43,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:00:00Z,µg/m³,21,43,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:02:00Z,µg/m³,8,44,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:03:00Z,µg/m³,8,43,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:04:00Z,µg/m³,9,42,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:05:00Z,µg/m³,9,42,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:06:00Z,µg/m³,11,41,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:07:00Z,µg/m³,6,42,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:08:00Z,µg/m³,13,43,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:09:00Z,µg/m³,10,46,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:10:00Z,µg/m³,12,46,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:11:00Z,µg/m³,16,46,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:12:00Z,µg/m³,20,46,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:13:00Z,µg/m³,16,47,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:14:00Z,µg/m³,17,47,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:15:00Z,µg/m³,20,45,7,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:16:00Z,µg/m³,31,42,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:17:00Z,µg/m³,43,37,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:18:00Z,µg/m³,45,31,9,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:19:00Z,µg/m³,42,26,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:20:00Z,µg/m³,42,21,11,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:21:00Z,µg/m³,40,15,12,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:22:00Z,µg/m³,38,10,14,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:23:00Z,µg/m³,38,5,14,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:00:00Z,µg/m³,34,3,16,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:02:00Z,µg/m³,14,7,17,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:03:00Z,µg/m³,14,7,18,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:04:00Z,µg/m³,8,18,18,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:05:00Z,µg/m³,8,21,18,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:06:00Z,µg/m³,6,31,18,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:07:00Z,µg/m³,8,38,18,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:08:00Z,µg/m³,11,43,18,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:09:00Z,µg/m³,12,43,18,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:10:00Z,µg/m³,15,44,18,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:11:00Z,µg/m³,18,44,18,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:12:00Z,µg/m³,14,44,18,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:13:00Z,µg/m³,15,43,17,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:14:00Z,µg/m³,20,42,16,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:15:00Z,µg/m³,24,40,16,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:16:00Z,µg/m³,36,36,15,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:17:00Z,µg/m³,35,33,15,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:18:00Z,µg/m³,39,29,15,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:19:00Z,µg/m³,41,25,14,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:20:00Z,µg/m³,29,22,14,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:21:00Z,µg/m³,24,19,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:22:00Z,µg/m³,24,17,12,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:00:00Z,µg/m³,16,15,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:02:00Z,µg/m³,10,20,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:03:00Z,µg/m³,10,21,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:04:00Z,µg/m³,8,24,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:05:00Z,µg/m³,8,25,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:06:00Z,µg/m³,7,30,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:07:00Z,µg/m³,9,32,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:08:00Z,µg/m³,11,33,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:09:00Z,µg/m³,14,33,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:10:00Z,µg/m³,19,33,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:11:00Z,µg/m³,13,34,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:12:00Z,µg/m³,11,35,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:13:00Z,µg/m³,9,36,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:14:00Z,µg/m³,11,37,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:15:00Z,µg/m³,17,39,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:16:00Z,µg/m³,24,38,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:17:00Z,µg/m³,22,38,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:18:00Z,µg/m³,32,37,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:19:00Z,µg/m³,27,34,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:20:00Z,µg/m³,24,31,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:00:00Z,µg/m³,17,23,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:03:00Z,µg/m³,10,29,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:04:00Z,µg/m³,9,34,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:05:00Z,µg/m³,9,35,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:06:00Z,µg/m³,5,40,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:07:00Z,µg/m³,7,44,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:08:00Z,µg/m³,8,47,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:09:00Z,µg/m³,9,49,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:10:00Z,µg/m³,13,49,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:11:00Z,µg/m³,11,49,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:12:00Z,µg/m³,8,50,11,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:13:00Z,µg/m³,10,51,11,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:14:00Z,µg/m³,10,51,11,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:15:00Z,µg/m³,9,51,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:16:00Z,µg/m³,12,51,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:17:00Z,µg/m³,16,51,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:18:00Z,µg/m³,16,50,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:19:00Z,µg/m³,22,48,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:21:00Z,µg/m³,10,47,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:22:00Z,µg/m³,11,47,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:23:00Z,µg/m³,11,46,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:00:00Z,µg/m³,11,48,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:02:00Z,µg/m³,13,49,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:03:00Z,µg/m³,13,51,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:04:00Z,µg/m³,9,52,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:05:00Z,µg/m³,9,51,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:06:00Z,µg/m³,9,49,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:07:00Z,µg/m³,12,47,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:08:00Z,µg/m³,21,45,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:09:00Z,µg/m³,28,42,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:10:00Z,µg/m³,27,41,10,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:11:00Z,µg/m³,25,39,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:12:00Z,µg/m³,26,38,11,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:13:00Z,µg/m³,20,38,11,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:14:00Z,µg/m³,18,38,12,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:15:00Z,µg/m³,20,39,12,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:16:00Z,µg/m³,22,41,12,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:17:00Z,µg/m³,18,44,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:18:00Z,µg/m³,19,46,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:19:00Z,µg/m³,21,48,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:21:00Z,µg/m³,19,50,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:02:00Z,µg/m³,11,55,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:03:00Z,µg/m³,11,56,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:04:00Z,µg/m³,14,57,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:05:00Z,µg/m³,14,58,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:06:00Z,µg/m³,19,56,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:07:00Z,µg/m³,23,55,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:08:00Z,µg/m³,20,53,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:09:00Z,µg/m³,26,50,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:10:00Z,µg/m³,30,47,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:11:00Z,µg/m³,24,44,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:12:00Z,µg/m³,22,43,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:13:00Z,µg/m³,16,43,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:15:00Z,µg/m³,21,43,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:16:00Z,µg/m³,21,44,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:17:00Z,µg/m³,27,45,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:18:00Z,µg/m³,22,46,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:19:00Z,µg/m³,14,48,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:20:00Z,µg/m³,11,50,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:00:00Z,µg/m³,5,57,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:03:00Z,µg/m³,11,64,14,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:04:00Z,µg/m³,5,62,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:05:00Z,µg/m³,5,62,14,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:06:00Z,µg/m³,5,60,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:07:00Z,µg/m³,12,57,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:08:00Z,µg/m³,18,53,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:09:00Z,µg/m³,20,48,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:10:00Z,µg/m³,21,45,11,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:11:00Z,µg/m³,20,42,11,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:12:00Z,µg/m³,23,40,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:13:00Z,µg/m³,23,39,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:14:00Z,µg/m³,20,37,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:15:00Z,µg/m³,20,38,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:16:00Z,µg/m³,20,40,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:17:00Z,µg/m³,21,41,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:18:00Z,µg/m³,20,43,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:19:00Z,µg/m³,19,45,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:02:00Z,µg/m³,8,57,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:03:00Z,µg/m³,8,58,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:04:00Z,µg/m³,6,59,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:05:00Z,µg/m³,6,59,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:06:00Z,µg/m³,8,58,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:07:00Z,µg/m³,13,57,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:08:00Z,µg/m³,28,55,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:09:00Z,µg/m³,36,51,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:10:00Z,µg/m³,29,48,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:11:00Z,µg/m³,24,45,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:12:00Z,µg/m³,20,43,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:13:00Z,µg/m³,20,42,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:14:00Z,µg/m³,19,41,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:15:00Z,µg/m³,21,41,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:16:00Z,µg/m³,19,42,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:17:00Z,µg/m³,20,45,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:18:00Z,µg/m³,22,46,8,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:19:00Z,µg/m³,15,47,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:02:00Z,µg/m³,6,54,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:03:00Z,µg/m³,6,55,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:04:00Z,µg/m³,4,57,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:06:00Z,µg/m³,8,58,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:07:00Z,µg/m³,11,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:08:00Z,µg/m³,20,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:09:00Z,µg/m³,20,52,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:10:00Z,µg/m³,23,NA,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:11:00Z,µg/m³,16,NA,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:12:00Z,µg/m³,15,NA,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:13:00Z,µg/m³,16,NA,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:14:00Z,µg/m³,15,NA,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:15:00Z,µg/m³,14,46,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:16:00Z,µg/m³,10,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:17:00Z,µg/m³,15,46,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:18:00Z,µg/m³,17,46,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:19:00Z,µg/m³,20,45,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:20:00Z,µg/m³,33,41,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:21:00Z,µg/m³,45,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:22:00Z,µg/m³,35,31,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:23:00Z,µg/m³,35,29,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:17:00Z,µg/m³,26,57,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:18:00Z,µg/m³,25,57,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:19:00Z,µg/m³,25,57,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:20:00Z,µg/m³,24,56,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:21:00Z,µg/m³,24,55,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:22:00Z,µg/m³,21,55,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:23:00Z,µg/m³,21,55,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:00:00Z,µg/m³,18,57,4,2,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:02:00Z,µg/m³,18,59,4,2,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:03:00Z,µg/m³,18,60,4,2,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:04:00Z,µg/m³,18,60,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:05:00Z,µg/m³,18,61,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:06:00Z,µg/m³,16,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:07:00Z,µg/m³,17,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:08:00Z,µg/m³,19,61,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:09:00Z,µg/m³,20,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:10:00Z,µg/m³,20,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:11:00Z,µg/m³,21,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:12:00Z,µg/m³,23,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:13:00Z,µg/m³,24,63,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:14:00Z,µg/m³,27,63,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:15:00Z,µg/m³,28,63,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:16:00Z,µg/m³,29,62,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:17:00Z,µg/m³,32,61,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:18:00Z,µg/m³,30,61,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:19:00Z,µg/m³,30,61,4,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:20:00Z,µg/m³,33,61,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:21:00Z,µg/m³,30,60,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:22:00Z,µg/m³,25,60,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:23:00Z,µg/m³,25,60,5,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:00:00Z,µg/m³,27,61,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:02:00Z,µg/m³,21,64,6,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:04:00Z,µg/m³,20,67,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:06:00Z,µg/m³,19,69,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:07:00Z,µg/m³,19,70,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:08:00Z,µg/m³,21,71,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:09:00Z,µg/m³,23,71,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:10:00Z,µg/m³,23,70,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:11:00Z,µg/m³,24,68,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:12:00Z,µg/m³,24,65,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:13:00Z,µg/m³,24,63,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:14:00Z,µg/m³,22,61,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:15:00Z,µg/m³,24,59,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:16:00Z,µg/m³,23,58,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:17:00Z,µg/m³,22,57,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:18:00Z,µg/m³,22,57,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:19:00Z,µg/m³,22,57,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:20:00Z,µg/m³,21,57,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:21:00Z,µg/m³,22,57,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:22:00Z,µg/m³,20,57,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:23:00Z,µg/m³,20,57,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:00:00Z,µg/m³,21,57,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:02:00Z,µg/m³,18,58,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:03:00Z,µg/m³,18,58,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:04:00Z,µg/m³,18,59,16,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:05:00Z,µg/m³,18,59,17,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:06:00Z,µg/m³,20,60,18,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:07:00Z,µg/m³,22,60,18,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:08:00Z,µg/m³,23,61,19,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:09:00Z,µg/m³,24,60,19,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:10:00Z,µg/m³,23,60,20,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:11:00Z,µg/m³,22,60,20,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:12:00Z,µg/m³,23,61,20,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:13:00Z,µg/m³,22,62,20,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:14:00Z,µg/m³,24,62,20,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:15:00Z,µg/m³,23,64,21,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:16:00Z,µg/m³,24,65,21,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:17:00Z,µg/m³,25,67,21,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:18:00Z,µg/m³,22,68,21,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:19:00Z,µg/m³,25,69,21,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:20:00Z,µg/m³,23,69,20,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:21:00Z,µg/m³,24,68,19,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:22:00Z,µg/m³,23,68,18,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:23:00Z,µg/m³,23,67,17,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:00:00Z,µg/m³,20,66,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:02:00Z,µg/m³,19,66,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:03:00Z,µg/m³,19,66,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:04:00Z,µg/m³,18,67,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:05:00Z,µg/m³,18,67,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:06:00Z,µg/m³,18,68,9,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:07:00Z,µg/m³,18,68,9,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:08:00Z,µg/m³,18,68,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:09:00Z,µg/m³,NA,68,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:10:00Z,µg/m³,21,65,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:11:00Z,µg/m³,22,64,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:12:00Z,µg/m³,20,64,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:13:00Z,µg/m³,22,63,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:14:00Z,µg/m³,29,62,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:15:00Z,µg/m³,29,62,7,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:16:00Z,µg/m³,28,62,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:17:00Z,µg/m³,33,62,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:18:00Z,µg/m³,37,61,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:19:00Z,µg/m³,33,60,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:20:00Z,µg/m³,28,59,6,3,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:21:00Z,µg/m³,25,58,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:22:00Z,µg/m³,25,57,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:23:00Z,µg/m³,25,56,7,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:00:00Z,µg/m³,22,53,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:02:00Z,µg/m³,22,51,9,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:03:00Z,µg/m³,22,51,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:04:00Z,µg/m³,25,48,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:05:00Z,µg/m³,25,48,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:06:00Z,µg/m³,23,45,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:07:00Z,µg/m³,23,44,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:08:00Z,µg/m³,61,35,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:09:00Z,µg/m³,72,29,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:10:00Z,µg/m³,71,23,11,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:11:00Z,µg/m³,62,19,11,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:12:00Z,µg/m³,33,19,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:13:00Z,µg/m³,27,21,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:14:00Z,µg/m³,22,23,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:15:00Z,µg/m³,21,28,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:16:00Z,µg/m³,12,34,14,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:17:00Z,µg/m³,26,39,14,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:18:00Z,µg/m³,28,43,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:19:00Z,µg/m³,45,43,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:20:00Z,µg/m³,45,39,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:21:00Z,µg/m³,59,32,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:22:00Z,µg/m³,56,25,15,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:23:00Z,µg/m³,56,21,15,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:00:00Z,µg/m³,39,12,16,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:02:00Z,µg/m³,29,4,17,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:03:00Z,µg/m³,29,3,18,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:04:00Z,µg/m³,46,1,19,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:05:00Z,µg/m³,46,2,19,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:06:00Z,µg/m³,45,2,21,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:07:00Z,µg/m³,30,3,21,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:08:00Z,µg/m³,24,6,22,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:09:00Z,µg/m³,21,10,22,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:10:00Z,µg/m³,26,15,21,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:11:00Z,µg/m³,21,20,21,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:12:00Z,µg/m³,33,24,20,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:13:00Z,µg/m³,46,28,20,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:14:00Z,µg/m³,34,32,19,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:15:00Z,µg/m³,56,33,19,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:16:00Z,µg/m³,50,33,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:17:00Z,µg/m³,40,31,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:18:00Z,µg/m³,33,30,17,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:19:00Z,µg/m³,30,29,17,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:20:00Z,µg/m³,27,30,16,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:21:00Z,µg/m³,25,31,15,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:22:00Z,µg/m³,20,32,14,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:23:00Z,µg/m³,20,34,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:00:00Z,µg/m³,7,39,12,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:02:00Z,µg/m³,12,43,11,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:03:00Z,µg/m³,12,44,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:04:00Z,µg/m³,4,45,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:05:00Z,µg/m³,4,46,8,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:06:00Z,µg/m³,6,46,6,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:07:00Z,µg/m³,11,46,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:08:00Z,µg/m³,20,43,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:09:00Z,µg/m³,37,39,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:10:00Z,µg/m³,35,36,4,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:11:00Z,µg/m³,29,34,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:12:00Z,µg/m³,26,31,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:13:00Z,µg/m³,27,28,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:14:00Z,µg/m³,28,25,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:15:00Z,µg/m³,33,22,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:16:00Z,µg/m³,43,20,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:17:00Z,µg/m³,55,17,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:18:00Z,µg/m³,67,15,5,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:19:00Z,µg/m³,73,12,6,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:20:00Z,µg/m³,68,9,7,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:21:00Z,µg/m³,59,6,8,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:22:00Z,µg/m³,59,3,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:23:00Z,µg/m³,59,1,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:00:00Z,µg/m³,56,0,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:02:00Z,µg/m³,59,0,16,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:03:00Z,µg/m³,59,0,17,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:04:00Z,µg/m³,47,0,25,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:05:00Z,µg/m³,47,0,26,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:06:00Z,µg/m³,28,0,26,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:07:00Z,µg/m³,32,0,26,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:08:00Z,µg/m³,38,0,26,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:09:00Z,µg/m³,37,3,26,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:10:00Z,µg/m³,51,3,27,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:11:00Z,µg/m³,60,3,27,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:12:00Z,µg/m³,32,6,27,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:13:00Z,µg/m³,33,9,27,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:14:00Z,µg/m³,40,11,28,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:15:00Z,µg/m³,41,14,28,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:16:00Z,µg/m³,55,15,28,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:17:00Z,µg/m³,60,16,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:18:00Z,µg/m³,68,16,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:19:00Z,µg/m³,66,16,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:20:00Z,µg/m³,69,13,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:21:00Z,µg/m³,63,10,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:23:00Z,µg/m³,58,5,28,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:00:00Z,µg/m³,43,4,27,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:02:00Z,µg/m³,39,4,18,15,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:03:00Z,µg/m³,39,4,16,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:04:00Z,µg/m³,32,6,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:05:00Z,µg/m³,32,6,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:06:00Z,µg/m³,26,8,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:07:00Z,µg/m³,24,9,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:08:00Z,µg/m³,30,11,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:09:00Z,µg/m³,24,13,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:10:00Z,µg/m³,15,17,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:12:00Z,µg/m³,18,25,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:13:00Z,µg/m³,17,28,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:14:00Z,µg/m³,16,33,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:15:00Z,µg/m³,13,37,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:16:00Z,µg/m³,8,41,15,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:17:00Z,µg/m³,9,45,14,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:18:00Z,µg/m³,7,47,14,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:19:00Z,µg/m³,7,48,13,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:20:00Z,µg/m³,6,49,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:21:00Z,µg/m³,9,51,11,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:22:00Z,µg/m³,10,51,11,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:23:00Z,µg/m³,10,51,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:00:00Z,µg/m³,15,49,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:02:00Z,µg/m³,8,47,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:03:00Z,µg/m³,8,46,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:04:00Z,µg/m³,4,45,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:05:00Z,µg/m³,4,44,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:06:00Z,µg/m³,3,47,8,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:07:00Z,µg/m³,8,47,8,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:08:00Z,µg/m³,29,46,8,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:09:00Z,µg/m³,27,46,8,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:10:00Z,µg/m³,14,47,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:11:00Z,µg/m³,7,49,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:12:00Z,µg/m³,3,52,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:13:00Z,µg/m³,3,54,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:14:00Z,µg/m³,2,55,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:15:00Z,µg/m³,0,58,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:16:00Z,µg/m³,1,62,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:17:00Z,µg/m³,6,65,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:18:00Z,µg/m³,6,66,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:19:00Z,µg/m³,8,66,9,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:20:00Z,µg/m³,3,66,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:21:00Z,µg/m³,2,66,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:22:00Z,µg/m³,1,65,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:23:00Z,µg/m³,1,64,8,4,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:00:00Z,µg/m³,15,47,14,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:02:00Z,µg/m³,13,46,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:03:00Z,µg/m³,13,46,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:04:00Z,µg/m³,10,46,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:05:00Z,µg/m³,10,46,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:06:00Z,µg/m³,12,46,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:07:00Z,µg/m³,22,45,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:08:00Z,µg/m³,29,44,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:09:00Z,µg/m³,26,42,16,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:10:00Z,µg/m³,22,42,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:11:00Z,µg/m³,16,44,15,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:12:00Z,µg/m³,31,44,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:13:00Z,µg/m³,35,43,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:14:00Z,µg/m³,24,44,13,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:15:00Z,µg/m³,23,46,12,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:16:00Z,µg/m³,20,49,11,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:17:00Z,µg/m³,20,53,11,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:18:00Z,µg/m³,20,56,10,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:19:00Z,µg/m³,31,55,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:20:00Z,µg/m³,61,53,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:21:00Z,µg/m³,80,49,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:22:00Z,µg/m³,74,43,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:23:00Z,µg/m³,74,42,9,5,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:00:00Z,µg/m³,62,31,9,6,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:02:00Z,µg/m³,67,14,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:03:00Z,µg/m³,67,9,10,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:04:00Z,µg/m³,32,9,11,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:05:00Z,µg/m³,32,9,11,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:06:00Z,µg/m³,26,14,11,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:07:00Z,µg/m³,19,19,11,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:08:00Z,µg/m³,17,24,12,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:09:00Z,µg/m³,17,30,12,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:10:00Z,µg/m³,25,36,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:11:00Z,µg/m³,24,41,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:12:00Z,µg/m³,28,45,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:13:00Z,µg/m³,31,48,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:14:00Z,µg/m³,44,49,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:15:00Z,µg/m³,43,49,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:16:00Z,µg/m³,42,50,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:17:00Z,µg/m³,26,51,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:18:00Z,µg/m³,40,51,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:19:00Z,µg/m³,39,50,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:20:00Z,µg/m³,33,49,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:21:00Z,µg/m³,31,47,12,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:22:00Z,µg/m³,31,45,12,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:23:00Z,µg/m³,31,45,11,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:00:00Z,µg/m³,29,43,11,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:02:00Z,µg/m³,21,39,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:03:00Z,µg/m³,21,37,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:04:00Z,µg/m³,15,40,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:05:00Z,µg/m³,15,41,9,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:06:00Z,µg/m³,3,48,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:07:00Z,µg/m³,1,52,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:08:00Z,µg/m³,4,55,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:09:00Z,µg/m³,10,57,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:10:00Z,µg/m³,15,57,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:11:00Z,µg/m³,30,56,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:12:00Z,µg/m³,25,57,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:13:00Z,µg/m³,9,57,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:14:00Z,µg/m³,4,59,8,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:15:00Z,µg/m³,15,58,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:16:00Z,µg/m³,23,57,9,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:17:00Z,µg/m³,18,57,9,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:18:00Z,µg/m³,23,57,10,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:19:00Z,µg/m³,36,56,11,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:20:00Z,µg/m³,44,52,11,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:21:00Z,µg/m³,57,44,12,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:22:00Z,µg/m³,55,35,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:23:00Z,µg/m³,55,31,13,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:00:00Z,µg/m³,43,22,14,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:02:00Z,µg/m³,37,9,14,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:03:00Z,µg/m³,37,6,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:04:00Z,µg/m³,22,4,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:05:00Z,µg/m³,22,3,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:06:00Z,µg/m³,24,3,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:07:00Z,µg/m³,33,3,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:08:00Z,µg/m³,47,2,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:09:00Z,µg/m³,71,3,16,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:10:00Z,µg/m³,76,3,17,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:11:00Z,µg/m³,52,6,17,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:12:00Z,µg/m³,32,11,18,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:13:00Z,µg/m³,23,18,18,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:14:00Z,µg/m³,29,25,18,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:15:00Z,µg/m³,29,32,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:16:00Z,µg/m³,41,37,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:17:00Z,µg/m³,40,43,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:18:00Z,µg/m³,31,48,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:19:00Z,µg/m³,26,51,18,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:20:00Z,µg/m³,12,55,17,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:21:00Z,µg/m³,10,56,16,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:22:00Z,µg/m³,15,57,15,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:23:00Z,µg/m³,15,58,15,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:00:00Z,µg/m³,12,59,14,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:02:00Z,µg/m³,14,63,13,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:03:00Z,µg/m³,14,65,13,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:04:00Z,µg/m³,15,62,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:05:00Z,µg/m³,15,61,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:06:00Z,µg/m³,15,59,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:07:00Z,µg/m³,28,57,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:08:00Z,µg/m³,41,53,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:09:00Z,µg/m³,34,48,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:11:00Z,µg/m³,23,44,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:12:00Z,µg/m³,30,44,13,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:13:00Z,µg/m³,35,43,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:14:00Z,µg/m³,27,43,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:15:00Z,µg/m³,27,45,14,7,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:17:00Z,µg/m³,31,51,15,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:18:00Z,µg/m³,39,52,16,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:19:00Z,µg/m³,48,50,16,8,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:20:00Z,µg/m³,68,46,16,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:21:00Z,µg/m³,71,41,17,9,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:22:00Z,µg/m³,62,35,18,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:23:00Z,µg/m³,62,32,18,10,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:00:00Z,µg/m³,57,22,19,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:02:00Z,µg/m³,46,10,20,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:03:00Z,µg/m³,46,6,21,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:04:00Z,µg/m³,26,4,21,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:05:00Z,µg/m³,26,4,21,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:06:00Z,µg/m³,30,3,21,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:07:00Z,µg/m³,37,3,21,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:08:00Z,µg/m³,47,3,21,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:09:00Z,µg/m³,47,4,22,15,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:10:00Z,µg/m³,43,7,23,15,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:11:00Z,µg/m³,35,11,23,16,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:12:00Z,µg/m³,35,14,24,17,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:13:00Z,µg/m³,35,19,24,18,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:14:00Z,µg/m³,24,23,25,18,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:15:00Z,µg/m³,16,29,25,19,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:16:00Z,µg/m³,18,34,26,19,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:17:00Z,µg/m³,27,37,26,20,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:18:00Z,µg/m³,38,36,27,20,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:19:00Z,µg/m³,53,33,27,21,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:20:00Z,µg/m³,44,31,28,21,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:21:00Z,µg/m³,43,27,29,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:22:00Z,µg/m³,52,23,29,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:23:00Z,µg/m³,52,19,29,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:00:00Z,µg/m³,44,12,31,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:02:00Z,µg/m³,33,7,32,25,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:03:00Z,µg/m³,33,6,33,25,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:04:00Z,µg/m³,11,9,33,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:05:00Z,µg/m³,11,9,34,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:06:00Z,µg/m³,9,17,34,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:07:00Z,µg/m³,10,22,35,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:08:00Z,µg/m³,15,26,35,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:09:00Z,µg/m³,17,31,34,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:10:00Z,µg/m³,22,36,33,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:11:00Z,µg/m³,24,39,33,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:12:00Z,µg/m³,25,39,32,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:13:00Z,µg/m³,22,39,32,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:14:00Z,µg/m³,13,39,32,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:15:00Z,µg/m³,15,40,33,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:16:00Z,µg/m³,15,40,33,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:17:00Z,µg/m³,15,40,33,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:18:00Z,µg/m³,17,40,33,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:19:00Z,µg/m³,14,41,33,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:20:00Z,µg/m³,13,43,33,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:21:00Z,µg/m³,7,45,32,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:22:00Z,µg/m³,5,47,32,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:23:00Z,µg/m³,5,47,31,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:00:00Z,µg/m³,1,53,30,25,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:02:00Z,µg/m³,2,57,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:04:00Z,µg/m³,2,57,29,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:05:00Z,µg/m³,2,57,29,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:07:00Z,µg/m³,11,51,30,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:09:00Z,µg/m³,13,44,31,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:12:00Z,µg/m³,6,46,33,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:13:00Z,µg/m³,6,47,33,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:14:00Z,µg/m³,7,50,33,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:15:00Z,µg/m³,6,52,33,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:17:00Z,µg/m³,7,59,33,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:19:00Z,µg/m³,21,60,34,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:22:00Z,µg/m³,15,60,37,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:23:00Z,µg/m³,15,60,38,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:00:00Z,µg/m³,11,57,39,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:02:00Z,µg/m³,17,53,41,29,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:03:00Z,µg/m³,17,53,42,29,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:04:00Z,µg/m³,8,51,43,30,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:06:00Z,µg/m³,10,50,44,31,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:07:00Z,µg/m³,9,50,45,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:08:00Z,µg/m³,13,48,46,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:09:00Z,µg/m³,22,46,46,33,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:11:00Z,µg/m³,15,42,48,34,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:14:00Z,µg/m³,15,40,48,35,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:16:00Z,µg/m³,21,42,49,35,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:20:00Z,µg/m³,24,46,51,37,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:21:00Z,µg/m³,27,44,51,37,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:22:00Z,µg/m³,21,42,52,38,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:23:00Z,µg/m³,21,41,52,38,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:00:00Z,µg/m³,12,40,52,39,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:02:00Z,µg/m³,12,39,52,39,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:05:00Z,µg/m³,13,39,52,39,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:06:00Z,µg/m³,11,39,50,38,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:08:00Z,µg/m³,6,41,48,37,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:09:00Z,µg/m³,8,41,47,36,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:15:00Z,µg/m³,26,37,44,35,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:16:00Z,µg/m³,20,36,44,34,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:18:00Z,µg/m³,22,36,43,34,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:19:00Z,µg/m³,21,37,44,35,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:20:00Z,µg/m³,25,37,43,35,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:21:00Z,µg/m³,12,39,43,34,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:23:00Z,µg/m³,13,43,41,33,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:02:00Z,µg/m³,2,50,40,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:03:00Z,µg/m³,2,51,40,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:04:00Z,µg/m³,1,54,39,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:05:00Z,µg/m³,1,55,39,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:08:00Z,µg/m³,16,54,40,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:09:00Z,µg/m³,24,52,40,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:10:00Z,µg/m³,26,49,40,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:11:00Z,µg/m³,28,47,40,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:12:00Z,µg/m³,29,44,39,32,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:13:00Z,µg/m³,23,42,39,31,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:14:00Z,µg/m³,21,40,39,31,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:16:00Z,µg/m³,30,37,38,30,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:17:00Z,µg/m³,27,36,37,30,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:18:00Z,µg/m³,25,37,36,29,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:19:00Z,µg/m³,22,37,35,28,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:20:00Z,µg/m³,37,35,34,27,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:21:00Z,µg/m³,34,33,33,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:22:00Z,µg/m³,35,31,33,26,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:23:00Z,µg/m³,35,30,32,25,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:00:00Z,µg/m³,27,27,31,25,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:02:00Z,µg/m³,17,24,30,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:03:00Z,µg/m³,17,22,30,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:04:00Z,µg/m³,21,22,30,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:05:00Z,µg/m³,21,22,30,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:06:00Z,µg/m³,25,21,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:07:00Z,µg/m³,28,21,29,24,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:08:00Z,µg/m³,24,22,28,23,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:09:00Z,µg/m³,32,23,27,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:10:00Z,µg/m³,37,23,26,22,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:11:00Z,µg/m³,27,23,25,21,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:12:00Z,µg/m³,31,25,24,20,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:13:00Z,µg/m³,19,28,23,19,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:14:00Z,µg/m³,20,33,22,18,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:15:00Z,µg/m³,11,39,22,18,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:16:00Z,µg/m³,12,42,21,17,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:17:00Z,µg/m³,13,45,20,16,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:18:00Z,µg/m³,15,48,19,15,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:19:00Z,µg/m³,17,49,18,14,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:20:00Z,µg/m³,16,52,16,13,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:21:00Z,µg/m³,11,53,15,12,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:22:00Z,µg/m³,9,54,14,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:23:00Z,µg/m³,9,52,14,11,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:00:00Z,µg/m³,17,34,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:02:00Z,µg/m³,18,32,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:05:00Z,µg/m³,15,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:06:00Z,µg/m³,7,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:07:00Z,µg/m³,8,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:09:00Z,µg/m³,9,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:13:00Z,µg/m³,9,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:14:00Z,µg/m³,12,53,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:15:00Z,µg/m³,12,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:19:00Z,µg/m³,24,21,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:20:00Z,µg/m³,21,23,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:23:00Z,µg/m³,45,2,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:00:00Z,µg/m³,42,2,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:01:00Z,µg/m³,41,1,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:02:00Z,µg/m³,38,1,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:04:00Z,µg/m³,37,1,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:09:00Z,µg/m³,11,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:10:00Z,µg/m³,14,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:11:00Z,µg/m³,23,32,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:14:00Z,µg/m³,20,30,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:15:00Z,µg/m³,20,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:18:00Z,µg/m³,22,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:21:00Z,µg/m³,33,12,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:22:00Z,µg/m³,32,12,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:23:00Z,µg/m³,28,14,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:07:00Z,µg/m³,8,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:10:00Z,µg/m³,8,40,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:11:00Z,µg/m³,9,40,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:12:00Z,µg/m³,16,35,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:13:00Z,µg/m³,16,38,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:14:00Z,µg/m³,21,33,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:18:00Z,µg/m³,24,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:01:00Z,µg/m³,25,34,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:04:00Z,µg/m³,7,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:06:00Z,µg/m³,6,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:09:00Z,µg/m³,34,20,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:18:00Z,µg/m³,31,21,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:19:00Z,µg/m³,34,17,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:23:00Z,µg/m³,25,17,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:00:00Z,µg/m³,22,19,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:02:00Z,µg/m³,21,18,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:06:00Z,µg/m³,10,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:09:00Z,µg/m³,26,12,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:19:00Z,µg/m³,29,8,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:20:00Z,µg/m³,29,16,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:22:00Z,µg/m³,29,19,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:23:00Z,µg/m³,26,11,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:06:00Z,µg/m³,20,5,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:07:00Z,µg/m³,21,4,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:09:00Z,µg/m³,32,2,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:10:00Z,µg/m³,42,3,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:12:00Z,µg/m³,36,10,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:13:00Z,µg/m³,24,24,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:15:00Z,µg/m³,30,22,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:16:00Z,µg/m³,20,32,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:19:00Z,µg/m³,22,29,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:20:00Z,µg/m³,21,32,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:06:00Z,µg/m³,8,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:07:00Z,µg/m³,8,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:10:00Z,µg/m³,25,17,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:12:00Z,µg/m³,22,26,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:13:00Z,µg/m³,24,26,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:17:00Z,µg/m³,33,19,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:18:00Z,µg/m³,28,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:03:00Z,µg/m³,19,21,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:04:00Z,µg/m³,17,23,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:13:00Z,µg/m³,25,24,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:14:00Z,µg/m³,30,24,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:20:00Z,µg/m³,34,22,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:21:00Z,µg/m³,26,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:22:00Z,µg/m³,26,27,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:23:00Z,µg/m³,24,30,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:08:00Z,µg/m³,14,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:21:00Z,µg/m³,24,26,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:22:00Z,µg/m³,21,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:04:00Z,µg/m³,21,20,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:06:00Z,µg/m³,16,21,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:07:00Z,µg/m³,20,15,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:09:00Z,µg/m³,23,8,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:10:00Z,µg/m³,24,8,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:11:00Z,µg/m³,25,8,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:14:00Z,µg/m³,16,20,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:15:00Z,µg/m³,15,20,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:21:00Z,µg/m³,36,12,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:22:00Z,µg/m³,18,34,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:23:00Z,µg/m³,10,50,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:03:00Z,µg/m³,4,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:05:00Z,µg/m³,6,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:06:00Z,µg/m³,3,52,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:11:00Z,µg/m³,17,44,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:13:00Z,µg/m³,9,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:14:00Z,µg/m³,12,53,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:16:00Z,µg/m³,13,49,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:20:00Z,µg/m³,32,19,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:21:00Z,µg/m³,36,15,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:00:00Z,µg/m³,16,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:01:00Z,µg/m³,13,41,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:06:00Z,µg/m³,8,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:00:00Z,µg/m³,13,44,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:01:00Z,µg/m³,12,44,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:03:00Z,µg/m³,10,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:04:00Z,µg/m³,10,45,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:05:00Z,µg/m³,11,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:06:00Z,µg/m³,8,49,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:09:00Z,µg/m³,8,44,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-01-21T00:12:00Z,µg/m³,14,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:05:00Z,µg/m³,6,53,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:12:00Z,µg/m³,14,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:14:00Z,µg/m³,14,50,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:15:00Z,µg/m³,16,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-02-21T00:18:00Z,µg/m³,22,40,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:01:00Z,µg/m³,13,41,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:05:00Z,µg/m³,7,43,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:09:00Z,µg/m³,43,0,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:12:00Z,µg/m³,52,8,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:14:00Z,µg/m³,30,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:17:00Z,µg/m³,44,17,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:18:00Z,µg/m³,59,3,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:20:00Z,µg/m³,47,6,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-03-21T00:23:00Z,µg/m³,33,12,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:00:00Z,µg/m³,31,14,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:04:00Z,µg/m³,11,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-04-21T00:22:00Z,µg/m³,19,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:01:00Z,µg/m³,9,54,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:03:00Z,µg/m³,9,52,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:05:00Z,µg/m³,8,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:07:00Z,µg/m³,7,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:11:00Z,µg/m³,26,49,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:12:00Z,µg/m³,18,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:13:00Z,µg/m³,29,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:14:00Z,µg/m³,16,53,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:19:00Z,µg/m³,12,63,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:21:00Z,µg/m³,10,70,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:22:00Z,µg/m³,7,71,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-05-21T00:23:00Z,µg/m³,7,71,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:00:00Z,µg/m³,6,68,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:01:00Z,µg/m³,5,68,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:08:00Z,µg/m³,6,60,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:09:00Z,µg/m³,9,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:10:00Z,µg/m³,14,54,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:12:00Z,µg/m³,16,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:13:00Z,µg/m³,16,46,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:14:00Z,µg/m³,23,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:15:00Z,µg/m³,23,32,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:18:00Z,µg/m³,43,14,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:19:00Z,µg/m³,41,16,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:20:00Z,µg/m³,34,22,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:21:00Z,µg/m³,26,32,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-06-21T00:22:00Z,µg/m³,21,38,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:02:00Z,µg/m³,8,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:03:00Z,µg/m³,6,64,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:06:00Z,µg/m³,6,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:09:00Z,µg/m³,9,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:11:00Z,µg/m³,11,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:12:00Z,µg/m³,8,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:13:00Z,µg/m³,7,52,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:17:00Z,µg/m³,5,64,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:18:00Z,µg/m³,6,65,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:19:00Z,µg/m³,6,66,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:20:00Z,µg/m³,5,65,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-07-21T00:22:00Z,µg/m³,5,62,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:00:00Z,µg/m³,5,56,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:01:00Z,µg/m³,6,50,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:03:00Z,µg/m³,5,52,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:05:00Z,µg/m³,4,64,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:08:00Z,µg/m³,2,65,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:09:00Z,µg/m³,3,63,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:11:00Z,µg/m³,4,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:16:00Z,µg/m³,8,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:18:00Z,µg/m³,9,35,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:19:00Z,µg/m³,10,29,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:20:00Z,µg/m³,11,28,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-08-21T00:21:00Z,µg/m³,9,29,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:01:00Z,µg/m³,7,39,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:05:00Z,µg/m³,6,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:06:00Z,µg/m³,6,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:12:00Z,µg/m³,17,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:13:00Z,µg/m³,15,46,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:14:00Z,µg/m³,13,49,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:15:00Z,µg/m³,13,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:16:00Z,µg/m³,16,45,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:17:00Z,µg/m³,20,40,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:18:00Z,µg/m³,20,40,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:19:00Z,µg/m³,18,41,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:20:00Z,µg/m³,14,47,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-09-21T00:21:00Z,µg/m³,15,44,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:01:00Z,µg/m³,7,55,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:03:00Z,µg/m³,7,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:04:00Z,µg/m³,6,58,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:05:00Z,µg/m³,7,58,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:06:00Z,µg/m³,8,57,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:10:00Z,µg/m³,20,49,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:11:00Z,µg/m³,20,50,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:13:00Z,µg/m³,16,55,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:14:00Z,µg/m³,16,54,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:15:00Z,µg/m³,16,53,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:16:00Z,µg/m³,16,54,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:18:00Z,µg/m³,21,49,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:19:00Z,µg/m³,22,48,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:20:00Z,µg/m³,22,45,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:22:00Z,µg/m³,13,55,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-10-21T00:23:00Z,µg/m³,11,59,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:00:00Z,µg/m³,11,58,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:06:00Z,µg/m³,5,66,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:10:00Z,µg/m³,29,43,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:11:00Z,µg/m³,39,36,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:14:00Z,µg/m³,33,43,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:17:00Z,µg/m³,29,42,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:22:00Z,µg/m³,21,41,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-11-21T00:23:00Z,µg/m³,17,45,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:00:00Z,µg/m³,20,41,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:01:00Z,µg/m³,20,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:02:00Z,µg/m³,17,40,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:06:00Z,µg/m³,12,37,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:12:00Z,µg/m³,41,9,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:15:00Z,µg/m³,40,15,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:19:00Z,µg/m³,48,8,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:20:00Z,µg/m³,45,10,NA,NA,Sheffield,NA
+Sheffield Devonshire Green - UKA00575,2024-12-21T00:23:00Z,µg/m³,19,39,NA,NA,Sheffield,NA
+Hull Freetown - UKA00450,2024-01-21T00:01:00Z,µg/m³,11,48,6,3,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:02:00Z,µg/m³,10,49,6,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:03:00Z,µg/m³,8,52,6,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:04:00Z,µg/m³,7,54,6,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:05:00Z,µg/m³,3,56,6,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:06:00Z,µg/m³,2,59,6,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:07:00Z,µg/m³,2,61,6,4,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:08:00Z,µg/m³,5,60,6,4,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:09:00Z,µg/m³,7,60,6,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:10:00Z,µg/m³,10,61,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:11:00Z,µg/m³,8,61,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:12:00Z,µg/m³,9,60,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:13:00Z,µg/m³,10,59,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:14:00Z,µg/m³,11,59,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:15:00Z,µg/m³,16,58,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:16:00Z,µg/m³,33,55,7,4,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:17:00Z,µg/m³,16,54,8,4,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:18:00Z,µg/m³,11,53,8,5,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:19:00Z,µg/m³,8,53,9,5,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:20:00Z,µg/m³,6,52,9,5,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:21:00Z,µg/m³,7,53,9,5,Hull,3
+Hull Freetown - UKA00450,2024-01-21T00:22:00Z,µg/m³,2,55,9,5,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:23:00Z,µg/m³,1,57,9,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:00:00Z,µg/m³,2,60,9,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:01:00Z,µg/m³,7,62,9,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:02:00Z,µg/m³,9,62,9,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:03:00Z,µg/m³,11,62,9,4,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:04:00Z,µg/m³,13,62,9,4,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:05:00Z,µg/m³,14,60,9,4,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:06:00Z,µg/m³,26,57,9,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:07:00Z,µg/m³,21,54,10,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:08:00Z,µg/m³,46,49,10,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:09:00Z,µg/m³,48,43,10,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:10:00Z,µg/m³,31,40,11,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:11:00Z,µg/m³,32,37,11,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:12:00Z,µg/m³,31,35,11,6,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:13:00Z,µg/m³,31,33,11,6,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:14:00Z,µg/m³,33,32,11,6,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:15:00Z,µg/m³,50,29,11,6,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:16:00Z,µg/m³,21,33,11,6,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:17:00Z,µg/m³,19,40,10,6,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:18:00Z,µg/m³,13,44,10,5,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:20:00Z,µg/m³,12,52,9,5,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:22:00Z,µg/m³,24,57,9,5,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:23:00Z,µg/m³,23,61,9,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:00:00Z,µg/m³,19,60,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:01:00Z,µg/m³,17,NA,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:02:00Z,µg/m³,13,56,9,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:03:00Z,µg/m³,13,55,9,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:04:00Z,µg/m³,11,54,9,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:05:00Z,µg/m³,14,53,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:06:00Z,µg/m³,23,52,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:07:00Z,µg/m³,37,49,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:08:00Z,µg/m³,57,44,8,5,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:09:00Z,µg/m³,53,39,8,5,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:10:00Z,µg/m³,55,33,7,5,Hull,3
+Hull Freetown - UKA00450,2024-03-21T00:11:00Z,µg/m³,56,28,8,5,Hull,3
+Hull Freetown - UKA00450,2024-03-21T00:12:00Z,µg/m³,50,22,9,5,Hull,3
+Hull Freetown - UKA00450,2024-03-21T00:13:00Z,µg/m³,42,18,9,5,Hull,3
+Hull Freetown - UKA00450,2024-03-21T00:14:00Z,µg/m³,42,15,9,5,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:15:00Z,µg/m³,36,14,9,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:16:00Z,µg/m³,35,15,9,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:17:00Z,µg/m³,36,16,10,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:18:00Z,µg/m³,38,17,10,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:19:00Z,µg/m³,45,18,11,7,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:20:00Z,µg/m³,42,18,11,7,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:22:00Z,µg/m³,53,15,12,8,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:23:00Z,µg/m³,43,15,13,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:00:00Z,µg/m³,31,15,13,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:02:00Z,µg/m³,21,18,14,9,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:03:00Z,µg/m³,20,21,14,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:04:00Z,µg/m³,25,23,14,9,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:05:00Z,µg/m³,27,26,14,10,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:06:00Z,µg/m³,22,30,14,10,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:07:00Z,µg/m³,38,30,15,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:08:00Z,µg/m³,49,28,14,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:09:00Z,µg/m³,40,26,15,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:10:00Z,µg/m³,38,24,14,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:11:00Z,µg/m³,35,22,13,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:12:00Z,µg/m³,33,22,13,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:13:00Z,µg/m³,28,22,13,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:14:00Z,µg/m³,28,22,13,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:15:00Z,µg/m³,30,24,14,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:16:00Z,µg/m³,47,24,16,9,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:17:00Z,µg/m³,49,24,20,10,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:18:00Z,µg/m³,62,22,24,10,Hull,3
+Hull Freetown - UKA00450,2024-04-21T00:19:00Z,µg/m³,58,19,25,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:20:00Z,µg/m³,52,16,26,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:21:00Z,µg/m³,54,13,27,10,Hull,3
+Hull Freetown - UKA00450,2024-04-21T00:22:00Z,µg/m³,47,10,27,10,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:23:00Z,µg/m³,42,6,28,11,Hull,2
+Hull Freetown - UKA00450,2024-05-21T00:00:00Z,µg/m³,36,5,29,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:02:00Z,µg/m³,21,6,30,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:03:00Z,µg/m³,14,8,31,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:04:00Z,µg/m³,10,12,31,13,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:05:00Z,µg/m³,8,16,31,13,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:06:00Z,µg/m³,7,21,31,13,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:07:00Z,µg/m³,8,27,31,13,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:08:00Z,µg/m³,14,31,30,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:09:00Z,µg/m³,20,34,30,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:10:00Z,µg/m³,32,35,30,12,Hull,2
+Hull Freetown - UKA00450,2024-05-21T00:11:00Z,µg/m³,20,37,30,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:12:00Z,µg/m³,15,38,31,12,Hull,2
+Hull Freetown - UKA00450,2024-05-21T00:13:00Z,µg/m³,14,38,30,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:14:00Z,µg/m³,14,37,30,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:15:00Z,µg/m³,20,36,29,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:16:00Z,µg/m³,19,37,27,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:17:00Z,µg/m³,29,37,24,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:18:00Z,µg/m³,24,38,19,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:19:00Z,µg/m³,16,39,18,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:20:00Z,µg/m³,18,40,17,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:21:00Z,µg/m³,26,39,17,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:22:00Z,µg/m³,14,38,16,9,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:00:00Z,µg/m³,15,38,15,8,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:02:00Z,µg/m³,8,40,14,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:03:00Z,µg/m³,7,40,13,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:04:00Z,µg/m³,6,40,13,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:05:00Z,µg/m³,4,42,13,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:06:00Z,µg/m³,5,42,14,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:07:00Z,µg/m³,7,42,14,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:08:00Z,µg/m³,12,41,14,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:09:00Z,µg/m³,16,40,14,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:10:00Z,µg/m³,15,40,14,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:11:00Z,µg/m³,11,40,13,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:12:00Z,µg/m³,8,41,13,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:13:00Z,µg/m³,9,41,13,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:14:00Z,µg/m³,6,42,13,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:15:00Z,µg/m³,9,44,12,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:16:00Z,µg/m³,14,46,12,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:17:00Z,µg/m³,24,46,11,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:18:00Z,µg/m³,23,45,11,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:19:00Z,µg/m³,18,44,11,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:20:00Z,µg/m³,12,44,11,6,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:00:00Z,µg/m³,5,49,10,6,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:03:00Z,µg/m³,3,61,10,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:04:00Z,µg/m³,3,63,9,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:05:00Z,µg/m³,4,63,9,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:06:00Z,µg/m³,4,64,9,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:07:00Z,µg/m³,4,64,9,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:08:00Z,µg/m³,11,63,9,5,Hull,0
+Hull Freetown - UKA00450,2024-07-21T00:09:00Z,µg/m³,15,61,9,5,Hull,0
+Hull Freetown - UKA00450,2024-07-21T00:10:00Z,µg/m³,16,59,9,5,Hull,0
+Hull Freetown - UKA00450,2024-07-21T00:11:00Z,µg/m³,11,58,9,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:12:00Z,µg/m³,8,57,10,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:13:00Z,µg/m³,4,58,10,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:14:00Z,µg/m³,4,59,10,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:15:00Z,µg/m³,6,60,11,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:16:00Z,µg/m³,18,60,11,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:17:00Z,µg/m³,29,59,12,6,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:18:00Z,µg/m³,22,60,13,6,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:19:00Z,µg/m³,25,61,15,8,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:21:00Z,µg/m³,34,54,16,9,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:22:00Z,µg/m³,28,51,17,9,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:23:00Z,µg/m³,29,47,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:00:00Z,µg/m³,26,44,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:01:00Z,µg/m³,17,44,17,10,Hull,0
+Hull Freetown - UKA00450,2024-08-21T00:02:00Z,µg/m³,12,44,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:03:00Z,µg/m³,12,42,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:04:00Z,µg/m³,4,46,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:05:00Z,µg/m³,4,50,17,10,Hull,0
+Hull Freetown - UKA00450,2024-08-21T00:06:00Z,µg/m³,8,53,17,10,Hull,0
+Hull Freetown - UKA00450,2024-08-21T00:07:00Z,µg/m³,14,56,17,10,Hull,0
+Hull Freetown - UKA00450,2024-08-21T00:08:00Z,µg/m³,24,59,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:09:00Z,µg/m³,22,60,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:10:00Z,µg/m³,16,61,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:11:00Z,µg/m³,15,62,17,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:12:00Z,µg/m³,13,62,18,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:13:00Z,µg/m³,14,62,18,11,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:14:00Z,µg/m³,16,61,19,11,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:15:00Z,µg/m³,16,61,19,11,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:16:00Z,µg/m³,15,63,20,11,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:17:00Z,µg/m³,23,63,19,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:18:00Z,µg/m³,18,64,19,10,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:19:00Z,µg/m³,8,66,16,7,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:21:00Z,µg/m³,4,69,15,7,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:02:00Z,µg/m³,2,76,15,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:03:00Z,µg/m³,2,76,15,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:04:00Z,µg/m³,3,76,16,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:05:00Z,µg/m³,4,75,16,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:06:00Z,µg/m³,5,74,16,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:07:00Z,µg/m³,8,73,17,7,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:08:00Z,µg/m³,19,71,17,7,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:09:00Z,µg/m³,25,68,18,7,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:10:00Z,µg/m³,17,67,18,7,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:11:00Z,µg/m³,14,65,18,7,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:12:00Z,µg/m³,12,64,18,7,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:13:00Z,µg/m³,11,64,18,7,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:15:00Z,µg/m³,16,62,17,7,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:16:00Z,µg/m³,20,63,17,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:17:00Z,µg/m³,27,63,17,6,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:18:00Z,µg/m³,14,63,17,6,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:19:00Z,µg/m³,9,64,17,6,Hull,0
+Hull Freetown - UKA00450,2024-09-21T00:20:00Z,µg/m³,5,65,17,6,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:00:00Z,µg/m³,7,68,16,6,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:03:00Z,µg/m³,1,70,14,6,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:04:00Z,µg/m³,1,69,14,5,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:05:00Z,µg/m³,3,67,13,5,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:06:00Z,µg/m³,7,65,13,5,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:07:00Z,µg/m³,15,63,12,5,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:08:00Z,µg/m³,51,57,12,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:09:00Z,µg/m³,59,49,11,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:10:00Z,µg/m³,48,43,11,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:11:00Z,µg/m³,39,38,11,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:12:00Z,µg/m³,21,37,10,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:13:00Z,µg/m³,16,37,10,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:14:00Z,µg/m³,18,37,10,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:15:00Z,µg/m³,20,37,10,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:16:00Z,µg/m³,29,41,9,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:17:00Z,µg/m³,28,46,9,4,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:18:00Z,µg/m³,18,51,8,4,Hull,0
+Hull Freetown - UKA00450,2024-10-21T00:19:00Z,µg/m³,11,56,8,3,Hull,0
+Hull Freetown - UKA00450,2024-11-21T00:02:00Z,µg/m³,1,68,7,3,Hull,0
+Hull Freetown - UKA00450,2024-11-21T00:03:00Z,µg/m³,3,69,7,3,Hull,0
+Hull Freetown - UKA00450,2024-11-21T00:04:00Z,µg/m³,3,69,7,3,Hull,0
+Hull Freetown - UKA00450,2024-11-21T00:05:00Z,µg/m³,2,69,7,3,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:06:00Z,µg/m³,7,68,7,3,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:07:00Z,µg/m³,20,66,7,3,Hull,0
+Hull Freetown - UKA00450,2024-11-21T00:08:00Z,µg/m³,27,64,7,3,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:09:00Z,µg/m³,31,61,8,3,Hull,0
+Hull Freetown - UKA00450,2024-11-21T00:10:00Z,µg/m³,24,58,8,4,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:11:00Z,µg/m³,18,57,8,4,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:12:00Z,µg/m³,14,56,9,4,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:13:00Z,µg/m³,15,56,10,4,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:14:00Z,µg/m³,11,56,10,4,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:15:00Z,µg/m³,12,56,10,4,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:16:00Z,µg/m³,13,57,11,5,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:17:00Z,µg/m³,15,58,11,5,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:18:00Z,µg/m³,12,59,12,5,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:19:00Z,µg/m³,8,60,12,5,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:02:00Z,µg/m³,2,67,16,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:03:00Z,µg/m³,3,68,16,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:04:00Z,µg/m³,1,68,17,7,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:05:00Z,µg/m³,2,68,17,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:06:00Z,µg/m³,7,67,17,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:07:00Z,µg/m³,6,66,17,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:08:00Z,µg/m³,14,63,17,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:09:00Z,µg/m³,14,60,16,7,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:10:00Z,µg/m³,19,NA,17,8,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:11:00Z,µg/m³,15,NA,16,7,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:12:00Z,µg/m³,10,NA,16,7,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:13:00Z,µg/m³,11,NA,15,7,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:14:00Z,µg/m³,10,NA,15,7,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:15:00Z,µg/m³,11,56,14,6,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:16:00Z,µg/m³,14,56,13,6,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:17:00Z,µg/m³,15,55,13,6,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:18:00Z,µg/m³,15,56,12,6,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:19:00Z,µg/m³,20,55,12,6,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:20:00Z,µg/m³,26,51,12,6,Hull,0
+Hull Freetown - UKA00450,2024-12-21T00:21:00Z,µg/m³,24,48,12,7,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:22:00Z,µg/m³,20,45,13,8,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:23:00Z,µg/m³,23,42,13,9,Hull,0
+Hull Freetown - UKA00450,2024-02-21T00:17:00Z,µg/m³,17,54,11,6,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:18:00Z,µg/m³,17,53,11,6,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:19:00Z,µg/m³,17,53,10,5,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:20:00Z,µg/m³,19,53,9,5,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:21:00Z,µg/m³,15,53,8,5,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:22:00Z,µg/m³,14,53,8,4,Hull,1
+Hull Freetown - UKA00450,2024-02-21T00:23:00Z,µg/m³,13,54,7,4,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:00:00Z,µg/m³,11,54,6,4,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:01:00Z,µg/m³,8,55,6,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:02:00Z,µg/m³,7,56,5,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:03:00Z,µg/m³,7,57,5,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:04:00Z,µg/m³,6,58,4,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:05:00Z,µg/m³,7,59,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:06:00Z,µg/m³,14,59,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:07:00Z,µg/m³,15,59,3,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:08:00Z,µg/m³,12,59,3,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:09:00Z,µg/m³,24,57,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:10:00Z,µg/m³,16,56,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:11:00Z,µg/m³,10,57,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:12:00Z,µg/m³,7,57,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:13:00Z,µg/m³,17,57,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:14:00Z,µg/m³,16,58,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:15:00Z,µg/m³,16,59,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:16:00Z,µg/m³,16,60,4,2,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:17:00Z,µg/m³,12,63,5,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:18:00Z,µg/m³,22,64,5,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:19:00Z,µg/m³,30,63,6,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:20:00Z,µg/m³,26,61,6,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:21:00Z,µg/m³,21,61,7,3,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:22:00Z,µg/m³,18,60,7,4,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:23:00Z,µg/m³,21,59,8,4,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:00:00Z,µg/m³,18,58,8,4,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:01:00Z,µg/m³,12,58,8,4,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:02:00Z,µg/m³,8,59,9,4,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:04:00Z,µg/m³,8,63,9,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:06:00Z,µg/m³,7,67,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:07:00Z,µg/m³,8,69,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:08:00Z,µg/m³,24,68,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:09:00Z,µg/m³,32,66,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:10:00Z,µg/m³,15,65,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:11:00Z,µg/m³,14,64,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:12:00Z,µg/m³,15,62,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:13:00Z,µg/m³,17,59,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:14:00Z,µg/m³,15,56,9,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:15:00Z,µg/m³,15,55,9,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:16:00Z,µg/m³,12,55,9,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:17:00Z,µg/m³,13,57,9,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:18:00Z,µg/m³,10,57,9,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:19:00Z,µg/m³,7,57,10,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:20:00Z,µg/m³,6,57,11,5,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:21:00Z,µg/m³,7,59,12,6,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:22:00Z,µg/m³,5,60,13,6,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:23:00Z,µg/m³,4,61,14,7,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:00:00Z,µg/m³,3,62,15,7,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:01:00Z,µg/m³,3,63,16,7,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:02:00Z,µg/m³,2,64,17,8,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:03:00Z,µg/m³,4,64,17,8,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:04:00Z,µg/m³,5,64,18,8,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:05:00Z,µg/m³,5,64,19,9,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:06:00Z,µg/m³,10,63,20,9,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:07:00Z,µg/m³,14,62,20,9,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:08:00Z,µg/m³,16,60,21,9,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:09:00Z,µg/m³,19,58,22,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:10:00Z,µg/m³,20,57,22,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:11:00Z,µg/m³,26,54,23,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:12:00Z,µg/m³,24,53,24,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:13:00Z,µg/m³,24,52,24,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:14:00Z,µg/m³,NA,51,25,11,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:15:00Z,µg/m³,NA,51,25,11,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:16:00Z,µg/m³,22,51,26,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:17:00Z,µg/m³,19,NA,26,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:18:00Z,µg/m³,21,NA,26,11,Hull,2
+Hull Freetown - UKA00450,2024-05-21T00:19:00Z,µg/m³,20,NA,26,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:20:00Z,µg/m³,17,NA,25,11,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:21:00Z,µg/m³,15,59,24,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:22:00Z,µg/m³,16,58,22,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:23:00Z,µg/m³,17,58,21,9,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:00:00Z,µg/m³,15,57,19,9,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:01:00Z,µg/m³,9,57,18,8,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:02:00Z,µg/m³,7,58,17,8,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:03:00Z,µg/m³,6,59,16,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:04:00Z,µg/m³,9,59,15,7,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:05:00Z,µg/m³,5,60,14,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:06:00Z,µg/m³,11,61,13,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:07:00Z,µg/m³,13,61,12,6,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:08:00Z,µg/m³,20,61,12,5,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:09:00Z,µg/m³,21,60,11,5,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:10:00Z,µg/m³,20,58,11,5,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:11:00Z,µg/m³,17,56,10,5,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:12:00Z,µg/m³,16,55,10,5,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:13:00Z,µg/m³,14,53,10,5,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:14:00Z,µg/m³,13,53,9,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:15:00Z,µg/m³,12,53,9,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:16:00Z,µg/m³,13,55,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:17:00Z,µg/m³,22,56,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:18:00Z,µg/m³,13,58,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:19:00Z,µg/m³,20,58,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:20:00Z,µg/m³,15,59,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:21:00Z,µg/m³,10,60,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:22:00Z,µg/m³,9,60,8,4,Hull,1
+Hull Freetown - UKA00450,2024-06-21T00:23:00Z,µg/m³,11,59,8,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:00:00Z,µg/m³,9,58,9,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:01:00Z,µg/m³,4,58,9,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:02:00Z,µg/m³,4,59,9,4,Hull,3
+Hull Freetown - UKA00450,2024-07-21T00:03:00Z,µg/m³,7,59,9,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:04:00Z,µg/m³,8,59,10,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:05:00Z,µg/m³,7,58,10,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:06:00Z,µg/m³,12,57,10,4,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:07:00Z,µg/m³,21,54,10,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:08:00Z,µg/m³,37,50,11,5,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:09:00Z,µg/m³,61,43,11,5,Hull,3
+Hull Freetown - UKA00450,2024-07-21T00:10:00Z,µg/m³,55,37,12,5,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:11:00Z,µg/m³,55,34,12,5,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:12:00Z,µg/m³,40,29,14,6,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:13:00Z,µg/m³,26,29,15,6,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:14:00Z,µg/m³,24,29,15,6,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:15:00Z,µg/m³,28,30,16,7,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:16:00Z,µg/m³,35,32,16,7,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:17:00Z,µg/m³,51,33,17,7,Hull,3
+Hull Freetown - UKA00450,2024-07-21T00:18:00Z,µg/m³,69,32,18,7,Hull,3
+Hull Freetown - UKA00450,2024-07-21T00:19:00Z,µg/m³,70,31,18,8,Hull,4
+Hull Freetown - UKA00450,2024-07-21T00:20:00Z,µg/m³,69,27,19,8,Hull,3
+Hull Freetown - UKA00450,2024-07-21T00:21:00Z,µg/m³,69,22,20,8,Hull,4
+Hull Freetown - UKA00450,2024-07-21T00:22:00Z,µg/m³,64,16,20,9,Hull,3
+Hull Freetown - UKA00450,2024-07-21T00:23:00Z,µg/m³,56,12,21,9,Hull,3
+Hull Freetown - UKA00450,2024-08-21T00:00:00Z,µg/m³,56,8,22,10,Hull,3
+Hull Freetown - UKA00450,2024-08-21T00:01:00Z,µg/m³,54,7,23,11,Hull,3
+Hull Freetown - UKA00450,2024-08-21T00:02:00Z,µg/m³,39,7,23,12,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:03:00Z,µg/m³,29,9,24,12,Hull,3
+Hull Freetown - UKA00450,2024-08-21T00:04:00Z,µg/m³,23,12,24,12,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:05:00Z,µg/m³,25,13,25,13,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:06:00Z,µg/m³,28,14,25,13,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:07:00Z,µg/m³,38,16,26,14,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:08:00Z,µg/m³,42,18,26,14,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:09:00Z,µg/m³,30,22,26,14,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:10:00Z,µg/m³,15,27,25,14,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:11:00Z,µg/m³,20,32,24,14,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:12:00Z,µg/m³,17,37,23,13,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:13:00Z,µg/m³,23,42,23,13,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:14:00Z,µg/m³,18,48,22,13,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:15:00Z,µg/m³,24,53,21,13,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:16:00Z,µg/m³,20,58,20,12,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:17:00Z,µg/m³,22,60,19,12,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:18:00Z,µg/m³,18,60,18,11,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:19:00Z,µg/m³,10,62,17,11,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:20:00Z,µg/m³,8,63,16,10,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:21:00Z,µg/m³,7,64,15,10,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:22:00Z,µg/m³,7,65,14,9,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:23:00Z,µg/m³,7,66,13,8,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:00:00Z,µg/m³,5,66,12,7,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:02:00Z,µg/m³,4,67,10,6,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:03:00Z,µg/m³,6,66,10,6,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:04:00Z,µg/m³,5,64,9,5,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:05:00Z,µg/m³,8,61,8,5,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:06:00Z,µg/m³,21,57,7,4,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:07:00Z,µg/m³,25,52,7,4,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:08:00Z,µg/m³,29,47,7,4,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:09:00Z,µg/m³,29,42,7,4,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:10:00Z,µg/m³,30,38,7,4,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:11:00Z,µg/m³,34,34,8,4,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:12:00Z,µg/m³,26,32,8,5,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:13:00Z,µg/m³,28,31,9,5,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:14:00Z,µg/m³,31,31,9,5,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:15:00Z,µg/m³,33,33,9,6,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:16:00Z,µg/m³,33,34,9,6,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:17:00Z,µg/m³,46,33,10,6,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:18:00Z,µg/m³,52,30,10,6,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:19:00Z,µg/m³,54,27,10,7,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:20:00Z,µg/m³,53,22,11,7,Hull,3
+Hull Freetown - UKA00450,2024-09-21T00:21:00Z,µg/m³,53,18,11,8,Hull,3
+Hull Freetown - UKA00450,2024-09-21T00:22:00Z,µg/m³,53,14,12,8,Hull,4
+Hull Freetown - UKA00450,2024-09-21T00:23:00Z,µg/m³,47,11,12,9,Hull,3
+Hull Freetown - UKA00450,2024-10-21T00:00:00Z,µg/m³,35,10,12,9,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:01:00Z,µg/m³,27,13,13,9,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:02:00Z,µg/m³,31,15,13,9,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:03:00Z,µg/m³,32,18,13,9,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:04:00Z,µg/m³,40,20,13,9,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:05:00Z,µg/m³,32,22,13,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:06:00Z,µg/m³,32,24,14,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:07:00Z,µg/m³,44,23,13,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:08:00Z,µg/m³,47,20,13,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:09:00Z,µg/m³,33,17,12,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:10:00Z,µg/m³,45,15,12,10,Hull,3
+Hull Freetown - UKA00450,2024-10-21T00:11:00Z,µg/m³,37,13,12,10,Hull,3
+Hull Freetown - UKA00450,2024-10-21T00:12:00Z,µg/m³,26,13,12,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:13:00Z,µg/m³,27,14,12,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:14:00Z,µg/m³,31,14,13,10,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:15:00Z,µg/m³,31,16,13,11,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:16:00Z,µg/m³,24,19,14,11,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:17:00Z,µg/m³,27,21,14,11,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:18:00Z,µg/m³,38,22,14,11,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:19:00Z,µg/m³,37,23,14,11,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:20:00Z,µg/m³,27,23,14,11,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:21:00Z,µg/m³,25,24,14,11,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:23:00Z,µg/m³,31,25,14,11,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:00:00Z,µg/m³,26,25,14,11,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:01:00Z,µg/m³,15,27,14,11,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:02:00Z,µg/m³,11,32,13,11,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:03:00Z,µg/m³,30,34,13,11,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:04:00Z,µg/m³,17,36,13,11,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:05:00Z,µg/m³,8,38,13,10,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:06:00Z,µg/m³,8,41,12,10,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:07:00Z,µg/m³,7,45,12,10,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:08:00Z,µg/m³,7,48,11,9,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:09:00Z,µg/m³,15,48,11,9,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:10:00Z,µg/m³,8,49,11,9,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:12:00Z,µg/m³,8,54,10,8,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:13:00Z,µg/m³,9,55,9,8,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:14:00Z,µg/m³,15,53,9,7,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:15:00Z,µg/m³,11,51,8,7,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:16:00Z,µg/m³,13,51,8,6,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:17:00Z,µg/m³,15,52,8,6,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:18:00Z,µg/m³,23,51,8,6,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:19:00Z,µg/m³,28,48,8,6,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:20:00Z,µg/m³,20,46,7,6,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:21:00Z,µg/m³,22,44,7,5,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:22:00Z,µg/m³,18,45,7,5,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:23:00Z,µg/m³,20,44,6,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:00:00Z,µg/m³,20,43,6,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:01:00Z,µg/m³,19,40,6,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:02:00Z,µg/m³,26,38,7,5,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:03:00Z,µg/m³,29,37,7,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:04:00Z,µg/m³,20,37,7,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:05:00Z,µg/m³,28,36,8,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:06:00Z,µg/m³,32,34,8,5,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:07:00Z,µg/m³,51,30,9,6,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:08:00Z,µg/m³,46,28,9,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:09:00Z,µg/m³,32,27,10,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:10:00Z,µg/m³,28,28,11,6,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:11:00Z,µg/m³,23,31,11,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:12:00Z,µg/m³,20,33,11,6,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:13:00Z,µg/m³,16,37,12,7,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:14:00Z,µg/m³,16,42,12,7,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:15:00Z,µg/m³,17,48,12,7,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:16:00Z,µg/m³,24,53,13,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:17:00Z,µg/m³,47,53,13,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:18:00Z,µg/m³,44,52,13,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:19:00Z,µg/m³,34,52,13,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:20:00Z,µg/m³,21,52,14,6,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:21:00Z,µg/m³,23,51,14,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:22:00Z,µg/m³,24,49,14,6,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:23:00Z,µg/m³,21,47,14,6,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:00:00Z,µg/m³,22,31,16,7,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:01:00Z,µg/m³,18,31,16,8,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:02:00Z,µg/m³,20,33,17,8,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:03:00Z,µg/m³,17,34,17,8,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:04:00Z,µg/m³,14,34,17,8,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:05:00Z,µg/m³,12,36,18,8,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:06:00Z,µg/m³,15,38,18,9,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:07:00Z,µg/m³,30,39,18,9,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:08:00Z,µg/m³,25,39,18,9,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:09:00Z,µg/m³,17,41,18,9,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:10:00Z,µg/m³,22,44,17,9,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:11:00Z,µg/m³,13,47,17,8,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:12:00Z,µg/m³,11,51,17,8,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:13:00Z,µg/m³,12,54,16,8,Hull,1
+Hull Freetown - UKA00450,2024-01-21T00:14:00Z,µg/m³,22,56,16,8,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:15:00Z,µg/m³,24,59,15,8,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:16:00Z,µg/m³,39,60,15,8,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:17:00Z,µg/m³,27,60,14,7,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:18:00Z,µg/m³,25,61,13,7,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:19:00Z,µg/m³,24,60,12,7,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:20:00Z,µg/m³,21,59,12,6,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:21:00Z,µg/m³,20,59,11,6,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:22:00Z,µg/m³,29,58,11,6,Hull,4
+Hull Freetown - UKA00450,2024-01-21T00:23:00Z,µg/m³,28,57,10,6,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:00:00Z,µg/m³,30,58,10,6,Hull,4
+Hull Freetown - UKA00450,2024-02-21T00:01:00Z,µg/m³,21,57,10,5,Hull,4
+Hull Freetown - UKA00450,2024-02-21T00:02:00Z,µg/m³,22,58,9,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:03:00Z,µg/m³,16,58,9,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:04:00Z,µg/m³,13,59,9,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:05:00Z,µg/m³,15,60,9,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:06:00Z,µg/m³,13,63,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:07:00Z,µg/m³,17,66,8,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:08:00Z,µg/m³,19,68,8,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:09:00Z,µg/m³,15,70,8,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:10:00Z,µg/m³,13,72,7,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:11:00Z,µg/m³,9,74,7,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:12:00Z,µg/m³,9,74,8,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:13:00Z,µg/m³,8,74,8,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:14:00Z,µg/m³,9,73,8,4,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:15:00Z,µg/m³,7,74,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:16:00Z,µg/m³,9,75,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:17:00Z,µg/m³,15,75,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:18:00Z,µg/m³,18,73,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:19:00Z,µg/m³,28,70,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:20:00Z,µg/m³,30,67,8,5,Hull,2
+Hull Freetown - UKA00450,2024-02-21T00:21:00Z,µg/m³,20,65,8,5,Hull,3
+Hull Freetown - UKA00450,2024-02-21T00:22:00Z,µg/m³,15,63,8,5,Hull,4
+Hull Freetown - UKA00450,2024-02-21T00:23:00Z,µg/m³,13,61,8,4,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:00:00Z,µg/m³,15,58,8,4,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:01:00Z,µg/m³,11,57,7,4,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:02:00Z,µg/m³,10,57,7,4,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:03:00Z,µg/m³,12,57,7,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:04:00Z,µg/m³,10,57,8,5,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:05:00Z,µg/m³,10,56,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:06:00Z,µg/m³,11,55,8,5,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:07:00Z,µg/m³,13,53,9,6,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:08:00Z,µg/m³,27,50,9,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:09:00Z,µg/m³,39,46,9,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:10:00Z,µg/m³,39,45,9,6,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:11:00Z,µg/m³,20,44,9,7,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:12:00Z,µg/m³,13,46,9,7,Hull,4
+Hull Freetown - UKA00450,2024-03-21T00:13:00Z,µg/m³,15,47,9,7,Hull,7
+Hull Freetown - UKA00450,2024-03-21T00:14:00Z,µg/m³,17,49,10,7,Hull,4
+Hull Freetown - UKA00450,2024-03-21T00:15:00Z,µg/m³,19,50,10,7,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:16:00Z,µg/m³,22,53,11,8,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:17:00Z,µg/m³,24,57,12,8,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:18:00Z,µg/m³,32,57,13,9,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:19:00Z,µg/m³,28,56,13,9,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:20:00Z,µg/m³,43,51,14,10,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:21:00Z,µg/m³,55,45,15,10,Hull,2
+Hull Freetown - UKA00450,2024-03-21T00:22:00Z,µg/m³,48,40,15,11,Hull,1
+Hull Freetown - UKA00450,2024-03-21T00:23:00Z,µg/m³,46,34,16,12,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:00:00Z,µg/m³,49,29,17,12,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:01:00Z,µg/m³,53,23,18,13,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:02:00Z,µg/m³,46,18,19,14,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:03:00Z,µg/m³,32,14,20,14,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:04:00Z,µg/m³,31,12,20,15,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:05:00Z,µg/m³,29,12,21,16,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:06:00Z,µg/m³,33,10,22,16,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:07:00Z,µg/m³,42,8,23,17,Hull,3
+Hull Freetown - UKA00450,2024-04-21T00:08:00Z,µg/m³,59,8,24,18,Hull,8
+Hull Freetown - UKA00450,2024-04-21T00:09:00Z,µg/m³,70,8,25,19,Hull,9
+Hull Freetown - UKA00450,2024-04-21T00:10:00Z,µg/m³,37,12,26,19,Hull,3
+Hull Freetown - UKA00450,2024-04-21T00:11:00Z,µg/m³,25,18,26,19,Hull,3
+Hull Freetown - UKA00450,2024-04-21T00:12:00Z,µg/m³,18,25,26,19,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:13:00Z,µg/m³,15,32,26,19,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:14:00Z,µg/m³,14,41,26,19,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:15:00Z,µg/m³,15,48,26,19,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:16:00Z,µg/m³,15,56,26,19,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:17:00Z,µg/m³,18,62,26,19,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:18:00Z,µg/m³,19,65,25,19,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:19:00Z,µg/m³,16,66,25,19,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:20:00Z,µg/m³,18,65,24,18,Hull,1
+Hull Freetown - UKA00450,2024-04-21T00:21:00Z,µg/m³,17,65,24,18,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:22:00Z,µg/m³,16,64,24,17,Hull,2
+Hull Freetown - UKA00450,2024-04-21T00:23:00Z,µg/m³,13,63,23,17,Hull,2
+Hull Freetown - UKA00450,2024-05-21T00:00:00Z,µg/m³,12,63,23,16,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:01:00Z,µg/m³,13,62,22,16,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:02:00Z,µg/m³,15,62,21,15,Hull,2
+Hull Freetown - UKA00450,2024-05-21T00:03:00Z,µg/m³,12,61,21,14,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:04:00Z,µg/m³,13,60,20,13,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:05:00Z,µg/m³,15,59,19,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:06:00Z,µg/m³,14,59,18,12,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:07:00Z,µg/m³,23,58,16,10,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:08:00Z,µg/m³,23,57,15,9,Hull,1
+Hull Freetown - UKA00450,2024-05-21T00:09:00Z,µg/m³,NA,57,14,8,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:11:00Z,µg/m³,NA,NA,13,8,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:12:00Z,µg/m³,NA,NA,13,8,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:13:00Z,µg/m³,NA,NA,12,7,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:11:00Z,µg/m³,21,38,29,24,Hull,2
+Hull Freetown - UKA00450,2024-07-21T00:12:00Z,µg/m³,25,36,30,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:13:00Z,µg/m³,21,35,31,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:14:00Z,µg/m³,15,37,31,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:15:00Z,µg/m³,17,40,31,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:16:00Z,µg/m³,17,43,31,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:17:00Z,µg/m³,20,49,31,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:18:00Z,µg/m³,17,53,32,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:19:00Z,µg/m³,14,55,32,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:20:00Z,µg/m³,14,58,31,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:21:00Z,µg/m³,12,60,32,24,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:22:00Z,µg/m³,12,60,32,25,Hull,1
+Hull Freetown - UKA00450,2024-07-21T00:23:00Z,µg/m³,10,62,32,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:00:00Z,µg/m³,12,62,32,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:01:00Z,µg/m³,7,63,32,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:02:00Z,µg/m³,12,63,32,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:04:00Z,µg/m³,10,63,33,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:05:00Z,µg/m³,6,63,33,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:07:00Z,µg/m³,15,61,33,23,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:09:00Z,µg/m³,17,59,32,22,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:12:00Z,µg/m³,18,59,33,22,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:13:00Z,µg/m³,17,59,33,22,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:14:00Z,µg/m³,12,60,33,22,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:15:00Z,µg/m³,14,62,34,22,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:17:00Z,µg/m³,12,69,35,23,Hull,2
+Hull Freetown - UKA00450,2024-08-21T00:19:00Z,µg/m³,14,72,36,24,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:22:00Z,µg/m³,10,75,39,26,Hull,1
+Hull Freetown - UKA00450,2024-08-21T00:23:00Z,µg/m³,11,75,40,27,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:00:00Z,µg/m³,9,73,41,27,Hull,1
+Hull Freetown - UKA00450,2024-09-21T00:02:00Z,µg/m³,7,70,42,28,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:03:00Z,µg/m³,7,70,43,29,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:04:00Z,µg/m³,7,69,44,29,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:06:00Z,µg/m³,7,67,45,31,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:07:00Z,µg/m³,10,65,46,31,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:08:00Z,µg/m³,11,63,46,31,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:09:00Z,µg/m³,12,61,46,32,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:11:00Z,µg/m³,13,57,47,33,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:14:00Z,µg/m³,13,54,48,34,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:16:00Z,µg/m³,13,54,48,34,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:20:00Z,µg/m³,12,60,49,34,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:21:00Z,µg/m³,12,60,49,35,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:22:00Z,µg/m³,11,60,49,35,Hull,2
+Hull Freetown - UKA00450,2024-09-21T00:23:00Z,µg/m³,10,60,49,35,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:01:00Z,µg/m³,11,59,49,35,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:02:00Z,µg/m³,10,58,49,35,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:05:00Z,µg/m³,7,57,48,34,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:06:00Z,µg/m³,8,56,48,34,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:08:00Z,µg/m³,8,55,47,34,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:09:00Z,µg/m³,8,55,47,34,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:15:00Z,µg/m³,10,58,47,34,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:16:00Z,µg/m³,10,59,47,34,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:18:00Z,µg/m³,11,61,49,35,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:19:00Z,µg/m³,10,61,49,35,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:20:00Z,µg/m³,10,62,50,35,Hull,1
+Hull Freetown - UKA00450,2024-10-21T00:21:00Z,µg/m³,8,63,50,35,Hull,2
+Hull Freetown - UKA00450,2024-10-21T00:23:00Z,µg/m³,6,64,50,36,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:02:00Z,µg/m³,6,64,52,36,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:03:00Z,µg/m³,5,65,53,37,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:04:00Z,µg/m³,5,65,53,37,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:05:00Z,µg/m³,6,65,53,37,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:08:00Z,µg/m³,21,63,55,37,Hull,1
+Hull Freetown - UKA00450,2024-11-21T00:09:00Z,µg/m³,25,61,54,37,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:10:00Z,µg/m³,25,61,54,37,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:11:00Z,µg/m³,18,59,54,37,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:12:00Z,µg/m³,19,58,54,36,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:13:00Z,µg/m³,20,56,54,36,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:14:00Z,µg/m³,19,56,53,35,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:16:00Z,µg/m³,17,55,51,34,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:17:00Z,µg/m³,17,56,50,33,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:18:00Z,µg/m³,18,55,49,32,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:19:00Z,µg/m³,16,55,48,31,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:20:00Z,µg/m³,15,54,47,31,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:21:00Z,µg/m³,18,54,46,30,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:22:00Z,µg/m³,16,53,45,29,Hull,2
+Hull Freetown - UKA00450,2024-11-21T00:23:00Z,µg/m³,27,50,44,28,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:00:00Z,µg/m³,32,47,43,28,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:01:00Z,µg/m³,25,45,42,27,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:02:00Z,µg/m³,12,45,41,27,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:03:00Z,µg/m³,11,44,40,26,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:04:00Z,µg/m³,11,43,39,25,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:05:00Z,µg/m³,13,40,39,25,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:06:00Z,µg/m³,21,37,39,25,Hull,1
+Hull Freetown - UKA00450,2024-12-21T00:07:00Z,µg/m³,26,36,38,25,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:08:00Z,µg/m³,25,36,37,25,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:09:00Z,µg/m³,26,35,37,25,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:10:00Z,µg/m³,26,33,36,24,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:11:00Z,µg/m³,25,30,35,24,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:12:00Z,µg/m³,28,31,33,23,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:13:00Z,µg/m³,30,32,32,22,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:14:00Z,µg/m³,29,33,31,22,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:15:00Z,µg/m³,29,34,30,21,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:16:00Z,µg/m³,29,34,29,21,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:17:00Z,µg/m³,51,32,28,20,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:18:00Z,µg/m³,42,33,27,19,Hull,3
+Hull Freetown - UKA00450,2024-12-21T00:19:00Z,µg/m³,44,30,26,19,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:20:00Z,µg/m³,41,28,25,18,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:21:00Z,µg/m³,25,27,24,17,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:22:00Z,µg/m³,25,26,23,17,Hull,2
+Hull Freetown - UKA00450,2024-12-21T00:23:00Z,µg/m³,31,26,22,16,Hull,2
+Hull Freetown - UKA00450,2024-01-21T00:00:00Z,µg/m³,20,34,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:02:00Z,µg/m³,20,38,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:05:00Z,µg/m³,9,52,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:06:00Z,µg/m³,7,56,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:07:00Z,µg/m³,9,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:09:00Z,µg/m³,14,47,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:13:00Z,µg/m³,12,49,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:14:00Z,µg/m³,7,61,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:15:00Z,µg/m³,7,56,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:19:00Z,µg/m³,37,12,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:20:00Z,µg/m³,37,11,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:23:00Z,µg/m³,41,7,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:00:00Z,µg/m³,25,23,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:01:00Z,µg/m³,7,39,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:02:00Z,µg/m³,7,41,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:04:00Z,µg/m³,4,60,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:09:00Z,µg/m³,13,62,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:10:00Z,µg/m³,11,62,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:11:00Z,µg/m³,10,65,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:14:00Z,µg/m³,18,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:15:00Z,µg/m³,18,54,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:18:00Z,µg/m³,15,57,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:21:00Z,µg/m³,21,42,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:22:00Z,µg/m³,19,44,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:23:00Z,µg/m³,21,42,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:07:00Z,µg/m³,6,57,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:10:00Z,µg/m³,6,57,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:11:00Z,µg/m³,9,54,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:12:00Z,µg/m³,12,56,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:13:00Z,µg/m³,15,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:14:00Z,µg/m³,18,61,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:18:00Z,µg/m³,16,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:01:00Z,µg/m³,10,64,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:04:00Z,µg/m³,19,48,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:06:00Z,µg/m³,16,43,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:09:00Z,µg/m³,47,7,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:18:00Z,µg/m³,27,24,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:19:00Z,µg/m³,30,21,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:23:00Z,µg/m³,35,10,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:00:00Z,µg/m³,32,12,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:02:00Z,µg/m³,26,11,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:06:00Z,µg/m³,22,21,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:09:00Z,µg/m³,34,12,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:19:00Z,µg/m³,42,9,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:20:00Z,µg/m³,41,7,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:22:00Z,µg/m³,39,5,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:23:00Z,µg/m³,32,7,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:06:00Z,µg/m³,29,4,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:07:00Z,µg/m³,32,3,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:09:00Z,µg/m³,35,3,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:10:00Z,µg/m³,33,5,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:12:00Z,µg/m³,29,9,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:13:00Z,µg/m³,28,10,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:15:00Z,µg/m³,32,8,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:16:00Z,µg/m³,32,6,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:19:00Z,µg/m³,37,3,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:20:00Z,µg/m³,41,7,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:06:00Z,µg/m³,7,50,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:07:00Z,µg/m³,10,50,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:10:00Z,µg/m³,29,27,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:12:00Z,µg/m³,33,29,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:13:00Z,µg/m³,31,28,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:17:00Z,µg/m³,26,32,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:18:00Z,µg/m³,27,30,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:03:00Z,µg/m³,15,30,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:04:00Z,µg/m³,11,34,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:13:00Z,µg/m³,32,26,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:14:00Z,µg/m³,25,36,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:20:00Z,µg/m³,27,34,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:21:00Z,µg/m³,21,39,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:22:00Z,µg/m³,22,37,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:23:00Z,µg/m³,18,41,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:08:00Z,µg/m³,15,30,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:21:00Z,µg/m³,32,12,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:22:00Z,µg/m³,27,16,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:04:00Z,µg/m³,18,26,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:06:00Z,µg/m³,21,23,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:07:00Z,µg/m³,20,23,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:08:00Z,µg/m³,21,21,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:09:00Z,µg/m³,28,16,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:10:00Z,µg/m³,28,12,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:11:00Z,µg/m³,27,19,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:15:00Z,µg/m³,28,10,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:21:00Z,µg/m³,31,6,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:22:00Z,µg/m³,33,7,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:23:00Z,µg/m³,25,18,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:03:00Z,µg/m³,8,43,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:06:00Z,µg/m³,5,50,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:11:00Z,µg/m³,15,47,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:13:00Z,µg/m³,11,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:14:00Z,µg/m³,9,60,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:16:00Z,µg/m³,10,63,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:20:00Z,µg/m³,35,28,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:21:00Z,µg/m³,24,37,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:00:00Z,µg/m³,14,45,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:01:00Z,µg/m³,9,50,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:06:00Z,µg/m³,5,58,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:00:00Z,µg/m³,10,39,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:01:00Z,µg/m³,10,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:03:00Z,µg/m³,6,49,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:04:00Z,µg/m³,5,52,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:05:00Z,µg/m³,4,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:06:00Z,µg/m³,5,50,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:09:00Z,µg/m³,5,47,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-01-21T00:12:00Z,µg/m³,9,41,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:05:00Z,µg/m³,8,54,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:12:00Z,µg/m³,23,32,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:14:00Z,µg/m³,6,65,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:15:00Z,µg/m³,6,66,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-02-21T00:18:00Z,µg/m³,11,58,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:01:00Z,µg/m³,4,59,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:05:00Z,µg/m³,5,45,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:09:00Z,µg/m³,21,31,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:12:00Z,µg/m³,18,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:14:00Z,µg/m³,23,44,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:17:00Z,µg/m³,50,8,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:18:00Z,µg/m³,54,4,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:20:00Z,µg/m³,59,2,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-03-21T00:23:00Z,µg/m³,35,14,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:00:00Z,µg/m³,41,9,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:04:00Z,µg/m³,35,13,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-04-21T00:22:00Z,µg/m³,19,32,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:01:00Z,µg/m³,10,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:03:00Z,µg/m³,4,62,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:05:00Z,µg/m³,4,59,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:07:00Z,µg/m³,17,48,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:11:00Z,µg/m³,23,53,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:12:00Z,µg/m³,27,49,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:13:00Z,µg/m³,34,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:14:00Z,µg/m³,48,28,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:19:00Z,µg/m³,20,48,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:21:00Z,µg/m³,15,66,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:22:00Z,µg/m³,10,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-05-21T00:23:00Z,µg/m³,5,79,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:00:00Z,µg/m³,4,80,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:01:00Z,µg/m³,4,77,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:08:00Z,µg/m³,4,67,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:09:00Z,µg/m³,9,60,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:10:00Z,µg/m³,18,51,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:12:00Z,µg/m³,16,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:13:00Z,µg/m³,19,51,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:14:00Z,µg/m³,26,41,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:15:00Z,µg/m³,33,32,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:18:00Z,µg/m³,37,19,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:19:00Z,µg/m³,26,30,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:20:00Z,µg/m³,18,42,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:21:00Z,µg/m³,14,43,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-06-21T00:22:00Z,µg/m³,11,48,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:02:00Z,µg/m³,4,61,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:03:00Z,µg/m³,3,61,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:06:00Z,µg/m³,2,70,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:09:00Z,µg/m³,22,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:11:00Z,µg/m³,22,32,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:12:00Z,µg/m³,11,46,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:13:00Z,µg/m³,7,44,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:17:00Z,µg/m³,4,71,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:18:00Z,µg/m³,3,73,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:19:00Z,µg/m³,3,76,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:20:00Z,µg/m³,3,73,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-07-21T00:22:00Z,µg/m³,2,69,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:00:00Z,µg/m³,3,67,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:01:00Z,µg/m³,2,58,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:03:00Z,µg/m³,4,39,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:05:00Z,µg/m³,2,42,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:08:00Z,µg/m³,2,70,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:09:00Z,µg/m³,1,75,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:11:00Z,µg/m³,3,66,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:16:00Z,µg/m³,3,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:18:00Z,µg/m³,3,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:19:00Z,µg/m³,3,39,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:20:00Z,µg/m³,2,39,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-08-21T00:21:00Z,µg/m³,2,42,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:01:00Z,µg/m³,1,54,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:05:00Z,µg/m³,1,55,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:06:00Z,µg/m³,2,58,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:12:00Z,µg/m³,8,64,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:13:00Z,µg/m³,9,62,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:14:00Z,µg/m³,7,63,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:15:00Z,µg/m³,8,64,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:16:00Z,µg/m³,9,62,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:17:00Z,µg/m³,7,62,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:18:00Z,µg/m³,8,63,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:19:00Z,µg/m³,5,65,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:20:00Z,µg/m³,3,67,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-09-21T00:21:00Z,µg/m³,4,67,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:01:00Z,µg/m³,1,73,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:03:00Z,µg/m³,0,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:04:00Z,µg/m³,1,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:05:00Z,µg/m³,0,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:06:00Z,µg/m³,1,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:10:00Z,µg/m³,15,69,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:11:00Z,µg/m³,12,69,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:13:00Z,µg/m³,11,72,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:14:00Z,µg/m³,10,69,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:15:00Z,µg/m³,11,71,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:16:00Z,µg/m³,15,64,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:18:00Z,µg/m³,13,66,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:19:00Z,µg/m³,13,65,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:20:00Z,µg/m³,6,71,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:22:00Z,µg/m³,5,76,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-10-21T00:23:00Z,µg/m³,3,76,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:00:00Z,µg/m³,3,77,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:06:00Z,µg/m³,3,77,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:10:00Z,µg/m³,30,56,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:11:00Z,µg/m³,30,58,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:14:00Z,µg/m³,20,60,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:17:00Z,µg/m³,21,52,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:22:00Z,µg/m³,22,40,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-11-21T00:23:00Z,µg/m³,14,47,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:00:00Z,µg/m³,15,43,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:01:00Z,µg/m³,6,53,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:02:00Z,µg/m³,5,53,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:06:00Z,µg/m³,6,58,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:11:00Z,µg/m³,29,44,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:12:00Z,µg/m³,20,52,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:15:00Z,µg/m³,19,48,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:19:00Z,µg/m³,23,43,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:20:00Z,µg/m³,20,47,NA,NA,Hull,NA
+Hull Freetown - UKA00450,2024-12-21T00:23:00Z,µg/m³,11,56,NA,NA,Hull,NA
